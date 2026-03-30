@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amul Kumar</h1>
-<h3 align="center">A passionate self learn't fullStack(MERN) developer from India</h3>
+<h3 align="center">Love Building AI/ML + full-stack systems for underground coal & metal mine safety and automation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amul69906995&label=Profile%20views&color=0e75b6&style=flat" alt="amul69906995" /> </p>
 
